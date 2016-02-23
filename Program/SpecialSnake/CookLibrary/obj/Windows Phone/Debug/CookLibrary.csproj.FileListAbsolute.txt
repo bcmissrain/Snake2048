@@ -1,0 +1,16 @@
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\bin\Windows Phone\Debug\CookLibrary.dll
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\bin\Windows Phone\Debug\CookLibrary.pdb
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\bin\Windows Phone\Debug\SamuraiLibraryV1.241.dll
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\bin\Windows Phone\Debug\SamuraiLibraryV1.241.pdb
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\obj\Windows Phone\Debug\CookLibrary.csprojResolveAssemblyReference.cache
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\obj\Windows Phone\Debug\CookLibrary.dll
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\obj\Windows Phone\Debug\CookLibrary.pdb
+G:\2014-4-27关键项目备份\桌面\剑者传说项目\1-已经完成\F吃货蛇2048\程序\4-14备份-发布版1.1\SpecialSnake\CookLibrary\bin\Windows Phone\Debug\CookLibrary.dll
+G:\2014-4-27关键项目备份\桌面\剑者传说项目\1-已经完成\F吃货蛇2048\程序\4-14备份-发布版1.1\SpecialSnake\CookLibrary\bin\Windows Phone\Debug\CookLibrary.pdb
+G:\2014-4-27关键项目备份\桌面\剑者传说项目\1-已经完成\F吃货蛇2048\程序\4-14备份-发布版1.1\SpecialSnake\CookLibrary\bin\Windows Phone\Debug\SamuraiLibraryV1.241.dll
+G:\2014-4-27关键项目备份\桌面\剑者传说项目\1-已经完成\F吃货蛇2048\程序\4-14备份-发布版1.1\SpecialSnake\CookLibrary\bin\Windows Phone\Debug\SamuraiLibraryV1.241.pdb
+G:\2014-4-27关键项目备份\桌面\剑者传说项目\1-已经完成\F吃货蛇2048\程序\4-14备份-发布版1.1\SpecialSnake\CookLibrary\obj\Windows Phone\Debug\CookLibrary.csprojResolveAssemblyReference.cache
+G:\2014-4-27关键项目备份\桌面\剑者传说项目\1-已经完成\F吃货蛇2048\程序\4-14备份-发布版1.1\SpecialSnake\CookLibrary\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\2014-4-27关键项目备份\桌面\剑者传说项目\1-已经完成\F吃货蛇2048\程序\4-14备份-发布版1.1\SpecialSnake\CookLibrary\obj\Windows Phone\Debug\CookLibrary.dll
+G:\2014-4-27关键项目备份\桌面\剑者传说项目\1-已经完成\F吃货蛇2048\程序\4-14备份-发布版1.1\SpecialSnake\CookLibrary\obj\Windows Phone\Debug\CookLibrary.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|Windows Phone'">
+    <CurrentDeployCmdId>256</CurrentDeployCmdId>
+    <CurrentDeployID>30F105C9-681E-420b-A277-7C086EAD8A4E</CurrentDeployID>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|Windows Phone'">
+    <CurrentDeployCmdId>256</CurrentDeployCmdId>
+    <CurrentDeployID>30F105C9-681E-420b-A277-7C086EAD8A4E</CurrentDeployID>
+  </PropertyGroup>
+  <PropertyGroup>
+    <XNASelectedDeployDevice>F4016E9D-EBD0-4350-88A9-C892E0AD1B5E</XNASelectedDeployDevice>
+  </PropertyGroup>
+</Project>

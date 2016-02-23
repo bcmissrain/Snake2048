@@ -1,0 +1,2 @@
+E:\Users\BC\Desktop\SpecialSnake\SpecialSnake\SpecialSnakeContent\obj\Windows Phone\Debug\SpecialSnakeContent.contentprojResolveAssemblyReference.cache
+G:\2014-4-27关键项目备份\桌面\剑者传说项目\1-已经完成\F吃货蛇2048\程序\4-14备份-发布版1.1\SpecialSnake\SpecialSnake\SpecialSnakeContent\obj\Windows Phone\Debug\SpecialSnakeContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialSnake", "SpecialSnake\SpecialSnake\SpecialSnake.csproj", "{6270D9ED-EF4E-4F77-832E-5BDC28899747}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SpecialSnakeContent", "SpecialSnake\SpecialSnakeContent\SpecialSnakeContent.contentproj", "{6B5A0ABF-CE6D-4980-9A08-E0196EAB17A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SamuraiLibraryV1.2411", "SamuraiLibraryV1.2411\SamuraiLibraryV1.2411.csproj", "{EE598C3D-1AD6-452F-895B-B5A051D34175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookLibrary", "CookLibrary\CookLibrary.csproj", "{046EC4D0-187D-4DD3-A10F-6B526F6C3343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6270D9ED-EF4E-4F77-832E-5BDC28899747}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6270D9ED-EF4E-4F77-832E-5BDC28899747}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{6270D9ED-EF4E-4F77-832E-5BDC28899747}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{6270D9ED-EF4E-4F77-832E-5BDC28899747}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{6270D9ED-EF4E-4F77-832E-5BDC28899747}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{6270D9ED-EF4E-4F77-832E-5BDC28899747}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{6B5A0ABF-CE6D-4980-9A08-E0196EAB17A6}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6B5A0ABF-CE6D-4980-9A08-E0196EAB17A6}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{EE598C3D-1AD6-452F-895B-B5A051D34175}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{EE598C3D-1AD6-452F-895B-B5A051D34175}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{EE598C3D-1AD6-452F-895B-B5A051D34175}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{EE598C3D-1AD6-452F-895B-B5A051D34175}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{046EC4D0-187D-4DD3-A10F-6B526F6C3343}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{046EC4D0-187D-4DD3-A10F-6B526F6C3343}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{046EC4D0-187D-4DD3-A10F-6B526F6C3343}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{046EC4D0-187D-4DD3-A10F-6B526F6C3343}.Release|Windows Phone.Build.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

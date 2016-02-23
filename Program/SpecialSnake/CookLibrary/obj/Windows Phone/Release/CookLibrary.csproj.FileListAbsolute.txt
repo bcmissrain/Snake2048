@@ -1,0 +1,8 @@
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\bin\Windows Phone\Release\CookLibrary.dll
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\bin\Windows Phone\Release\CookLibrary.pdb
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\bin\Windows Phone\Release\SamuraiLibraryV1.241.dll
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\bin\Windows Phone\Release\SamuraiLibraryV1.241.pdb
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\obj\Windows Phone\Release\CookLibrary.csprojResolveAssemblyReference.cache
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\obj\Windows Phone\Release\CookLibrary.dll
+E:\Users\BC\Desktop\SpecialSnake\CookLibrary\obj\Windows Phone\Release\CookLibrary.pdb
